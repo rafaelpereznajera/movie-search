@@ -67,14 +67,14 @@ h1 {
   color: #ff0000;
 }
 .favourite:hover {
-  color: #960000;
+  color: #4d0000;
 }
 .no-favourite {
   font-size: 1.5em;
   color: #000;
 }
 .no-favourite:hover {
-  color: #960000;
+  color: #bb0101;
 }
 .load-more {
   display: block;
